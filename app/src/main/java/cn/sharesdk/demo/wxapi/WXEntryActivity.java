@@ -19,6 +19,9 @@ import cn.sharesdk.wechat.utils.WechatHandlerActivity;
 *
 *
 *
+* ssdfd *
+*
+*
 * */
 public class WXEntryActivity extends WechatHandlerActivity {
 
