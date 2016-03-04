@@ -13,6 +13,14 @@ import cn.sharesdk.framework.ShareSDK;
 import cn.sharesdk.onekeyshare.OnekeyShare;
 import cn.sharesdk.tencent.qq.QQ;
 
+/**
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
